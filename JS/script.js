@@ -11,4 +11,4 @@ in JavaScript... yay!
 Time to log my name and favorite food
 to the console B) */
 console.log("James Carbajal")
-console.log("My favorite food is Sushi")
+console.log("My favorite food is Sushi!")
